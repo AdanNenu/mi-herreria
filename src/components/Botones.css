@@ -90,7 +90,7 @@ button {
 
 
 
-/*Modifica Botonera Escritorio y tablewt Landscape*/
+/*Modifica Botonera Escritorio y tablewt Landscapes*/
 @media screen and (orientation: landscape) and (min-width: 1025px)  {
   .botones-container {
     position: absolute; /* o fixed si quieres que quede siempre visible */
